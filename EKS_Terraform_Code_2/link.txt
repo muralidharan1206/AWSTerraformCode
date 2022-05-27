@@ -1,0 +1,3 @@
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+
+https://adamtheautomator.com/terraform-vpc/
